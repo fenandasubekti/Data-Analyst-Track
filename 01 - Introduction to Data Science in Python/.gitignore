@@ -1,0 +1,8 @@
+# ignore checkpoints
+*.ipynb_checkpoints
+
+# ignore folder recall
+recall/
+
+# ignore pdf file
+*.pdf
